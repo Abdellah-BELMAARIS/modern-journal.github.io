@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /accounts/
+Disallow: /auth/
+Disallow: /api/
+
+Sitemap: https://modern-journal.github.io/sitemap.xml
